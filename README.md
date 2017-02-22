@@ -1,8 +1,8 @@
 # README #
 
-# Currículo  Carlos Daniel Garcia Echenagucia (cdanielge)
+# CV - Carlos Daniel Garcia Echenagucia (@cdanielge)
 
-# Ver curriculo en : 
+## Ver curriculo en : ##
 * [https://cdanielge.github.io/curriculo_cdanielge/](https://cdanielge.github.io/curriculo_cdanielge/)
 
 
